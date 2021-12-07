@@ -131,10 +131,17 @@ h2 {
 }
 
 .box {
-    padding: 80px;
+    /*padding: 80px;*/
     border: 2px solid #3882F6;
     border-radius: 16px;
+    width: 150px;
 }
+
+/*
+#bhain {
+    padding: 13px 0px;
+}
+*/
 
 .info-text {
     font-size: 18px;
